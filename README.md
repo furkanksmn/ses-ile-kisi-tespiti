@@ -1,5 +1,5 @@
 # Ses Tanıma ile Ortamdaki Kişi Sayısını Tespit Eden Gömülü Sistem
-
+*(Not: Bu yazı yapay zeka ile oluşturulmuştur.)*
 Bu proje, bir kapalı ortamdaki ses sinyallerini analiz ederek, konuşan kişi sayısını gerçek zamanlı olarak tespit eden bir gömülü sistem prototipidir. Proje, kamera kullanımının mahremiyet veya yetersiz ışık nedeniyle uygun olmadığı durumlar için enerji verimliliği ve otomasyon çözümleri sunmayı amaçlamaktadır.
 
 Bu çalışma, **TÜBİTAK 2209-A - Üniversite Öğrencileri Araştırma Projeleri Desteği Programı** kapsamında desteklenmiştir.
@@ -63,7 +63,6 @@ Sistem, 4 ana modülden oluşan bir iş akışına sahiptir:
       ```bash
       pip install -r requirements.txt
       ```
-      *(Not: Proje için bir `requirements.txt` dosyası oluşturmanız önerilir.)*
 
 ### 🔧 Yapılandırma
 
@@ -119,7 +118,7 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasın
 ---
 
 ## <a name="english-version"></a>English Version
-
+*(Note: This text was created with artificial intelligence.)*
 ### 🎯 Project Goal
 
 The primary goal of this project is to detect the number of speakers in an environment through audio analysis. This information can be used in various automation scenarios, such as controlling lighting, heating, and air conditioning systems in smart buildings to save energy. The system is designed as an effective, privacy-first alternative to camera-based systems.
@@ -171,7 +170,6 @@ The system has a workflow consisting of 4 main modules:
       ```bash
       pip install -r requirements.txt
       ```
-      *(Note: It is recommended to create a `requirements.txt` file for the project.)*
 
 ### 🔧 Configuration
 
