@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+librosa
+soundfile
+noisereduce
+webrtcvad-wheels
+pyannote.audio
+torch
+scikit-learn
+spidev
+matplotlib
