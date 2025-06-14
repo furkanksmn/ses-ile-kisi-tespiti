@@ -117,8 +117,6 @@ Proje `main.py` betiği üzerinden çalıştırılır. İki ana modu vardır:
 
 Bu proje, **TÜBİTAK Bilim İnsanı Destek Programları Başkanlığı (BİDEB)** tarafından yürütülen **2209-A Üniversite Öğrencileri Araştırma Projeleri Desteği Programı** kapsamında desteklenmiştir.
 
-Proje danışmanım **Prof. Dr. Öğr. Üyesi Yavuz EROL**'a değerli katkıları ve yol göstericiliği için teşekkür ederim.
-
 ### 📄 Lisans
 
 Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakınız.
