@@ -107,14 +107,6 @@ Proje `main.py` betiği üzerinden çalıştırılır. İki ana modu vardır:
 └── README.md         # Bu dosya
 ```
 
-### 🙏 Teşekkür
-
-Bu proje, **TÜBİTAK Bilim İnsanı Destek Programları Başkanlığı (BİDEB)** tarafından yürütülen **2209-A Üniversite Öğrencileri Araştırma Projeleri Desteği Programı** kapsamında desteklenmiştir.
-
-### 📄 Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakınız.
-
 ---
 ---
 
@@ -214,11 +206,3 @@ The project is run via the `main.py` script. It has two main modes:
 ├── requirements.txt  # Required Python libraries
 └── README.md         # This file
 ```
-
-### 🙏 Acknowledgments
-
-This project has been supported by the **TÜBİTAK Scientist Support Programs Directorate (BİDEB)** under the **2209-A University Students Research Projects Support Program**.
-
-### 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
