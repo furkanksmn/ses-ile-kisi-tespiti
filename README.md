@@ -124,11 +124,11 @@ The primary goal of this project is to detect the number of speakers in an envir
 ### 🖼️ Visuals
 
 **Circuit Diagram:**
-![Devre Şeması](pictures/devre.jpg)
-**Plot**
-![Konuşmacı Zaman Çizelgesi](pictures/grafik.png)
-**Terminal Output**
-![Terminal Çıktısı](pictures/konsol.png)
+![Circuit](pictures/devre.jpg)
+**Plot:**
+![Plot](pictures/grafik.png)
+**Terminal Output:**
+![Terminal Output](pictures/konsol.png)
 
 ### 🛠️ Technology Stack
 
