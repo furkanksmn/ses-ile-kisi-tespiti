@@ -21,9 +21,9 @@ Projenin temel amacı, bir mekandaki konuşmacı sayısını ses analizi yoluyla
 
 **Devre Şeması:**
 ![Devre Şeması](pictures/devre.jpg)
-**Grafik**
+**Grafik:**
 ![Konuşmacı Zaman Çizelgesi](pictures/grafik.png)
-**Terminal Çıktısı**
+**Terminal Çıktısı:**
 ![Terminal Çıktısı](pictures/konsol.png)
 
 ### 🛠️ Teknoloji Mimarisi
