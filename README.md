@@ -20,7 +20,11 @@ Projenin temel amacı, bir mekandaki konuşmacı sayısını ses analizi yoluyla
 ### 🖼️ Görseller
 
 **Devre Şeması:**
-[![Image](https://i.hizliresim.com/dciq0h9.png)](https://hizliresim.com/dciq0h9)
+![Devre Şeması](pictures/devre.jpg)
+**Grafik**
+![Konuşmacı Zaman Çizelgesi](pictures/grafik.png)
+**Terminal Çıktısı**
+![Terminal Çıktısı](pictures/konsol.png)
 
 ### 🛠️ Teknoloji Mimarisi
 
@@ -120,7 +124,11 @@ The primary goal of this project is to detect the number of speakers in an envir
 ### 🖼️ Visuals
 
 **Circuit Diagram:**
-[![Image](https://i.hizliresim.com/dciq0h9.png)](https://hizliresim.com/dciq0h9)
+![Devre Şeması](pictures/devre.jpg)
+**Plot**
+![Konuşmacı Zaman Çizelgesi](pictures/grafik.png)
+**Terminal Output**
+![Terminal Çıktısı](pictures/konsol.png)
 
 ### 🛠️ Technology Stack
 
